@@ -1,0 +1,40 @@
+body {
+	font-family: sans-serif;
+	background-image: url("../img/download.jpeg");
+	padding-bottom: 40px;
+
+}
+.jumbotron {
+	text-align: center;
+	background-color: #FD00B4;
+	font-family: sans-serif;
+	font-weight: bolder;
+}
+#column {
+	background-color: white;
+	color: #FD00B4;
+	text-align: center;
+	padding-top: 20px;
+}
+#centre {
+	color: #FD00B4;
+}
+#first {
+	padding-left: 155px;
+	margin-top: 60px;
+}
+#second {
+	width: 376px;
+	height: 56px;
+	padding-top: 19px;
+	margin-top: 38px;
+	margin-bottom: 40px;
+	padding-left: 155px;
+
+}
+footer {
+	background-color: white;
+	text-align: center;
+	color: #FD00B4;
+	padding-bottom: 25px;
+}
